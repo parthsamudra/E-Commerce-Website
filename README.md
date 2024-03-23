@@ -35,17 +35,18 @@ E-Commerce Website is designed to provide users with a seamless shopping experie
 
 ## Screenshots
 
-![Home Page]("./home1.png")
-![Home Page]("./png")
-![Home Page]("./home3.png")
-![Home Page]("./home4.png")
-![Shop Page]("./shop1.png")
-![Shop Page]("./shop2.png")
-![Shop Page]("./shop3.png")
-![About Page]("./about1.png")
-![About Page]("./about11.png")
-![Blog Page]("./blog1.png")
-![Cart Page]("./cart1.png")
+![Home Page](img/outputs/home1.png)
+![Home Page](img/outputs/home2.png)
+![Home Page](img/outputs/home3.png)
+![Home Page](img/outputs/home4.png)
+![Shop Page](img/outputs/shop1.png)
+![Shop Page](img/outputs/shop2.png)
+![Shop Page](img/outputs/shop3.png)
+![About Page](img/outputs/about1.png)
+![About Page](img/outputs/about11.png)
+![Blog Page](img/outputs/blog1.png)
+![Cart Page](img/outputs/cart1.png)
+
 ## Feedback
 
 I welcome your feedback! If you encounter any issues or have suggestions for improvement, please feel free to create an issue or reach out to the project me at samudraparth1@gmail.com.
