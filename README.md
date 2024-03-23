@@ -16,7 +16,7 @@ E-Commerce Website is designed to provide users with a seamless shopping experie
    - Browse through a diverse range of products categorized for easy navigation.
 
 4. **Search Functionality:**
-   Search for specific products using keywords
+   -Search for specific products using keywords.
 
 
 ## Prerequisites
