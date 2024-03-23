@@ -7,7 +7,7 @@ E-Commerce Website is designed to provide users with a seamless shopping experie
 ## Features
 
 1. **Responsive Design:**
-   Optimized layout for desktop, tablet, and mobile devices.
+   -Optimized layout for desktop, tablet, and mobile devices.
 
 2. **Shopping Cart:**
    - Add products to the cart and manage items before checkout.
@@ -35,17 +35,17 @@ E-Commerce Website is designed to provide users with a seamless shopping experie
 
 ## Screenshots
 
-![Home Page](./img/outputs/home1.png")
-![Home Page](./img/outputs/home2.png)
-![Home Page](./img/outputs/home3.png)
-![Home Page](./img/outputs/home4.png)
-![Shop Page](./img/outputs/shop1.png)
-![Shop Page](./img/outputs/shop2.png)
-![Shop Page](./img/outputs/shop3.png)
-![About Page](./img/outputs/about1.png)
-![About Page](./img/outputs/about11.png)
-![Blog Page](./img/outputs/blog1.png)
-![Cart Page](./img/outputs/cart1.png)
+![Home Page]("./img/outputs/home1.png")
+![Home Page]("./img/outputs/home2.png")
+![Home Page]("./img/outputs/home3.png")
+![Home Page]("./img/outputs/home4.png")
+![Shop Page]("./img/outputs/shop1.png")
+![Shop Page]("./img/outputs/shop2.png")
+![Shop Page]("./img/outputs/shop3.png")
+![About Page]("./img/outputs/about1.png")
+![About Page]("./img/outputs/about11.png")
+![Blog Page]("./img/outputs/blog1.png")
+![Cart Page]("./img/outputs/cart1.png")
 ## Feedback
 
 I welcome your feedback! If you encounter any issues or have suggestions for improvement, please feel free to create an issue or reach out to the project me at samudraparth1@gmail.com.
